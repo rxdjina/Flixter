@@ -25,8 +25,8 @@ The following **optional** features are implemented:
 - [ ] For the large poster, load the low resolution image first and then switch to the high resolution image when complete.
 - [ ] Customize the selection effect of the cell.
 - [ ] Customize the navigation bar.
-- [ ] Customize the UI.
-- [ ] Run your app on a real device.
+- [x] Customize the UI.
+- [x] Run your app on a real device.
 
 The following **additional** features are implemented:
 
